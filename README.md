@@ -14,7 +14,7 @@ UCSF-Chimera and Pychimera packages are required to fetch domains. Additionally,
 
 Syntax:
 
-        python PDB_domain_extractor.py -i demo_list.txt
+        pychimera PDB_domain_extractor.py -i demo_list.txt
 
 Example Dataframe (tab separated file is required with .txt extension):
 
