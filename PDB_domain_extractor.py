@@ -1,4 +1,4 @@
-#! /software/mambaforge/envs/Murat_scripts/bin/pychimera
+#! /usr/bin/pychimera
 
 import os
 import sys
